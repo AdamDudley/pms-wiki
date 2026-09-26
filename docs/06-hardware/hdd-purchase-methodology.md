@@ -46,6 +46,9 @@ If you needed another reason; the longer you wait, the more TBs you'll get for t
 
 The general takeaway from this is that you should never buy a hard drive because in 6 months you'll be able to get significantly more for your money. Of course, this is a reality of any tech. At some point you've just got to bite the bullet and press the purchase button - but you get my point, I hope.
 
+!!! tip "Checking the current price-per-TB"
+    Because the cost per terabyte keeps falling, it pays to check the going rate before you press the purchase button. [HDDHunt](https://hddhunt.com/cheapest-hdd-per-tb/) tracks the cheapest current price-per-TB by capacity across US retailers, which is a quick way to see where today's sweet spot sits.
+
 ## Shucking
 
 I'll keep this section brief as there is a load of information readily available over at the [r/datahoarder](https://www.reddit.com/r/DataHoarder/) subreddit. Suffice to say that Western Digital frequently offer 8TB drives for under $150 either via Amazon or Best Buy. You may ignore Rule #3 because these are retail drives and ship with appropriate packaging around the all important hard drive.
